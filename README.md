@@ -7,4 +7,3 @@
 
 
 ![그림5](https://user-images.githubusercontent.com/54879393/189065366-dd073280-31e9-4824-9ecb-14d4c22714e1.jpg)
-![그림6](https://user-images.githubusercontent.com/54879393/189065508-240b6449-6a26-463f-bd02-64785d76fa02.png)
