@@ -37,7 +37,7 @@ text1                                               text2                       
 The main contributors of the work are: 
 - [Jaemin Kim](https://github.com/kimfunn)\*
 - [Yohan Na](https://github.com/nayohan)\*
-- [Gangmin Kim](https://github.com/Gangsss)
+- [Kangmin Kim](https://github.com/Gangsss)
 - [Sangrak Lee](https://github.com/PangRAK)
 
 \*: Equal Contribution
