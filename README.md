@@ -1,4 +1,4 @@
-# SimKor
+# SimKoR
 
  We provide korean sentence text similarity pair dataset using sentiment analysis corpus from [bab2min/corpus](https://github.com/bab2min/corpus).  
  This data crawling korean review from naver shopping website. we reconstruct subset of dataset to make our dataset.
